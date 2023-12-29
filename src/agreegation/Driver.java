@@ -1,11 +1,11 @@
-package composition;
+package agreegation;
 
 public class Driver {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		// This is  has a relation ship
+		// This is  has a relation ship (Agreegation)
 		Employee employee = new Employee(1, "Bhagyashri",
 				new Address(101, "Gajanan", "Osmanabad", "Maharashtra", "India"));
 		

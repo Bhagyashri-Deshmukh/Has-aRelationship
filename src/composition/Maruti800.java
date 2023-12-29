@@ -1,4 +1,4 @@
-package compositionTwo;
+package composition;
 
 public class Maruti800 extends Car {
 

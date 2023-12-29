@@ -1,4 +1,4 @@
-package composition;
+package agreegation;
 
 public class Employee {
 
